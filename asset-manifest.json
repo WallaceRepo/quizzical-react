@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.7a6d4ee6.css",
-    "main.js": "/react-gh-pages/static/js/main.092c2a98.js",
-    "static/js/787.fa62f795.chunk.js": "/react-gh-pages/static/js/787.fa62f795.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "static/media/LoadingImage.svg": "/react-gh-pages/static/media/LoadingImage.94d419ff1d4a4369583e1969d8a85989.svg",
-    "main.7a6d4ee6.css.map": "/react-gh-pages/static/css/main.7a6d4ee6.css.map",
-    "main.092c2a98.js.map": "/react-gh-pages/static/js/main.092c2a98.js.map",
-    "787.fa62f795.chunk.js.map": "/react-gh-pages/static/js/787.fa62f795.chunk.js.map"
+    "main.css": "/quizzical-react/static/css/main.7a6d4ee6.css",
+    "main.js": "/quizzical-react/static/js/main.c88e0fe9.js",
+    "static/js/787.fa62f795.chunk.js": "/quizzical-react/static/js/787.fa62f795.chunk.js",
+    "index.html": "/quizzical-react/index.html",
+    "static/media/LoadingImage.svg": "/quizzical-react/static/media/LoadingImage.94d419ff1d4a4369583e1969d8a85989.svg",
+    "main.7a6d4ee6.css.map": "/quizzical-react/static/css/main.7a6d4ee6.css.map",
+    "main.c88e0fe9.js.map": "/quizzical-react/static/js/main.c88e0fe9.js.map",
+    "787.fa62f795.chunk.js.map": "/quizzical-react/static/js/787.fa62f795.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a6d4ee6.css",
-    "static/js/main.092c2a98.js"
+    "static/js/main.c88e0fe9.js"
   ]
 }
